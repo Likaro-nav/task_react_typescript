@@ -1,4 +1,5 @@
 import { render } from "react-dom";
+import "bootstrap";
 
 import App from "./App";
 

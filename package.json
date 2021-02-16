@@ -1,8 +1,14 @@
 {
-  "name": "task-app",
+  "name": "task-app-react-hooks-and-typescript",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Basic Task App - CRUD ",
+  "keywords": [
+    "create-react-app",
+    "notes",
+    "junior-frontend",
+    "react-hooks",
+    "typescript"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "react": "17.0.1",
